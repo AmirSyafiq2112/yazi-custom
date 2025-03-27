@@ -1,0 +1,7 @@
+[plugin]
+deps = []
+
+[[flavor.deps]]
+use = "kalidyasin/yazi-flavors:tokyonight-night"
+rev = "92a09a6"
+hash = "b64dfeadadcdd96838810b213f8ff9a3"
